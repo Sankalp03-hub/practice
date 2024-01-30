@@ -1,0 +1,7 @@
+Font Awesome-To download Logo
+mvnRepository-To add dependencies
+Introduction:Bootstrap 5-To copy all resources of html, css, jsp, bootstrap.
+
+
+DAO Object-Its useful to saparate data logic and bussiness logic and send & recieve data logic to database.
+
